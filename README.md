@@ -1,4 +1,4 @@
 # Online Tools
-Please go to [Online Tools]((https://raydlc101.github.io/online-tools/))
+Please go to [Online Tools](https://raydlc101.github.io/online-tools/)
 
 #
